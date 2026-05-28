@@ -119,6 +119,36 @@ The underlying mathematics of the DGSU grid layout are completely unified with t
 * **RF & Wireless (5G/6G MIMO):** Acts as a *Waveguide Stub Filter Grid* to decouple multiplexed frequency interference and stabilize real-time wireless streams.
 * **Quantum Computing Circuits:** Operates as a *Quantum Noise Buffer Layer*, absorbing environmental decoherence vectors into lower sub-grids to maintain strict Qubit phase stability.
 
+==================== DGSU MAIN MANIFOLD ====================
+       │
+       ├─► [Vertical Reservoir Layer 1] ──► Bleeds off Data Pressure / Stalls
+       ├─► [Vertical Reservoir Layer 2] ──► Filters Inter-Channel Noise
+       ├─► [Vertical Reservoir Layer 3] ──► Stabilizes Pure Bitstream
+       │
+       ▼ (Cascading Overflow Chutes)
+┌──────────────────────────────────────────────────────────┐
+│  [BASE LAYER RESERVOIR] (กว้างยาวเต็มพื้นที่ฐานสุด)       │
+│  ──► 100% Physical Water Drainage / Zero-Pressure        │
+│  ──► Global Garbage Collection & Long-Term Archive Pool  │
+└──────────────────────────────────────────────────────────┘
+
+## 🧱 Modular & Flexible Reservoir Architecture (The "Lego-Block" Logic)
+
+To ensure maximum adaptability across diverse operational environments, the DGSU protocol implements a **Flexible Modular Design**. The vertical reservoirs (buffers) are not statically locked into a single fixed position; instead, they function as interchangeable "Lego Blocks" that engineers can dynamically re-route and deploy at critical infrastructure nodes depending on real-world constraints:
+
+### 1. Pre-Grid In-Line Configuration (ไว้หน้ากริด)
+* **Mechanism:** Placing the DGSU reservoir directly at the front gate (Front-End Ingress Buffer) before data enters the primary processing matrix.
+* **Impact:** Acts as a high-velocity shield to instantly neutralize initial Data Surges, absorption overhead, or malicious traffic spikes (e.g., DDoS). It unwraps and cleanses multi-format files into pure waveforms *before* they touch the core silicon architecture, guaranteeing a strict 100% Zero-Stall state from execution step one.
+
+### 2. Inter-Process Modular Configuration (กระบวนการต่อเลโก้)
+* **Mechanism:** Integrating modular reservoir blocks as intermediate checkpoints intercalated between distinct sub-processes or computational transitions.
+* **Impact:** Ideal for extremely long data routing networks or complex multi-domain pipelines (e.g., transitioning from Digital Waveforms to Photonics/Quantum arrays). By inserting a reservoir between processes, the system executes micro-level Error Correction Code (ECC) scanning, bleeds off accumulated transient noise, and resets signal velocity on-the-fly without interrupting global throughput momentum.
+
+### 3. Tier-4 Multi-Domain Isolation (ฐานที่ 4 รองรับควอนตัม/แสง/วิทยุ)
+* **Mechanism:** Deploying a global, expansive base reservoir directly beneath specialized physics domains (Photonics, 6G RF, Quantum Circuits).
+* **Impact:** Functions as a universal energy and noise dissipation sink. It isolates high-frequency environment decoherence, environmental vibration vectors, or phase-jitter spikes, draining them harmlessly into a zero-pressure tertiary base layer while maintaining pure phase stability for primary Qubits and laser signals above.
+
+
 ## 💎 Key Architectural Advantages
 
 The DGSU paradigm delivers core performance upgrades natively built into the silicon-level routing logic:
