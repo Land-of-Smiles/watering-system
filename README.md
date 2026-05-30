@@ -227,6 +227,10 @@ The compressed micro-tags merely act as indexing signals that tell the terminal 
 
 <br>
 
+#### 💡 Advanced Optimization: Isomorphic Scaled Compression (Aspect Ratio Lock)
+To completely neutralize amplitude surges, the DGSU can engage "Isomorphic Scaling." Instead of compressing only the horizontal wavelength (which causes vertical voltage spikes), the architecture locks the wave's aspect ratio. As the wavelength is squeezed by 50%, the amplitude is dynamically scaled down by 50% concurrently. This maintains identical wave curvature slope, resulting in Zero Transient Noise and zero structural stress on the processor core.
+
+
 * **Technical Insight:** By treating wave patterns as physical modular puzzle blocks, data is reconstructed at light-speed (Hyper-Velocity) with absolute fidelity (0% Information Loss), fully unlocking the **Zero-Stall, 100% Stable Universe.** 🏆
 
 ## 💎 Key Architectural Advantages
